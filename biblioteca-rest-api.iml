@@ -173,4 +173,8 @@
     <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:7.2" level="project" />
     <orderEntry type="library" name="Maven: org.jacoco:org.jacoco.report:0.8.5" level="project" />
   </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
 </module>
